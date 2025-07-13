@@ -1,0 +1,17 @@
+# Ignore util folder inside React app
+/frontend/invoicely/src/util/
+
+# Ignore Spring Boot's sensitive config
+/Backend/invoicely/src/main/resources/application.properties
+
+
+# Ignore build artifacts
+node_modules/
+target/
+
+# Ignore IDE files
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
